@@ -1,5 +1,4 @@
-### Hey! My name is Carter.
-
+<h3> Hey! My name is Carter. </h3>
 I'm a 17yo high-school student who loves building things from the ground up.
 
 ---
@@ -16,5 +15,4 @@ I'm a 17yo high-school student who loves building things from the ground up.
 - 🖥 My Workflow: [Just look at my rice pls and thank you](https://raw.githubusercontent.com/carterisonline/carterisonline/master/le-rice.png)
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=carterisonline&show_icons=true&theme=nord&bg_color=0,22272e,22272e&hide_border=true&include_all_commits=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterisonline&layout=compact&theme=nord&bg_color=0,22272e,22272e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/carterisonline/lateral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carterisonline&amp;repo=lateral&amp;theme=nord&amp;bg_color=0,22272e,22272e&amp;hide_border=true" alt="Lateral Card" style="float:right;"></a>
