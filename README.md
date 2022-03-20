@@ -1,17 +1,16 @@
 <h3> Hey! My name is Carter. </h3>
-I'm a 17yo high-school student who loves building things from the ground up.
+I work on all aspects of software development; whether it be building a nice-looking webapp with Tailwind or optimizing and securing a backend server using Rust.
 
 ---
 
-- 🔭 I’m currently working on __[The Lateral Kernel](https://github.com/carterisonline/lateral)__
-- 🌱 I’m currently learning __compiler design__. 
-- 👯 I’m looking to collaborate on __new Rust projects__.
+- 🔭 I’m currently working on __[Selfhosting Everything](https://github.com/carterisonline/website)__
+- 🌱 I’m currently learning __UI and UX fundamentals__. 
+- 👯 I’m looking to collaborate on __any rust library__.
 - 💬 Ask me about __the sauce incident__.
 
-- 📫 How to reach me: reebcw@pm.me
+- 📫 How to reach me: me@carteris.online
 - 😄 Pronouns: __he/him__
 - ⚡ Fun fact: __I started programming with Javascript at age 7__.
-- 😤 Not-so-fun fact: __I've accidentally been committing as `Carter Reeb <reebcw@pm.me>` (anonymous to Github) for almost a year now, so I get no credit for the commits on my main computer!__
 - 🖥 My Workflow: [Just look at my rice pls and thank you](https://raw.githubusercontent.com/carterisonline/carterisonline/master/le-rice.png)
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=carterisonline&show_icons=true&theme=nord&bg_color=0,22272e,22272e&hide_border=true&include_all_commits=true">
