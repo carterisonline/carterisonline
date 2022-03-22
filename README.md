@@ -15,7 +15,7 @@ I work on all aspects of software development; whether it be building a nice-loo
 
 - 🌐 Favorite web tech: Svelte, Vite, Tailwind, Alpine
 - 📱 Favorite mobile tech: Flutter + Hooks + Functional Widgets + Riverpod
-- ⌨️ Favorite server tech: Tokio, Tarpc, Axum
+- ⌨️ Favorite server tech: Tokio, Tonic, Axum
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=carterisonline&show_icons=true&theme=nord&bg_color=0,22272e,22272e&hide_border=true&include_all_commits=true">
 <a href="https://github.com/carterisonline/lateral"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carterisonline&amp;repo=lateral&amp;theme=nord&amp;bg_color=0,22272e,22272e&amp;hide_border=true" alt="Lateral Card" style="float:right;"></a>
